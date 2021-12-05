@@ -10,3 +10,13 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiting33118&layout=compact&theme=nord&show_icons=true" alt="Tony's Top 5 Languages"></a>
 </p>
 
+<h1 align=center>Tony's Github stats</h1>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=waiting33118&show_icons=true&theme=nord" alt="Tony's Github stats"/>
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=waiting33118&theme=nord&date_format=M%20j%5B%2C%20Y%5D" alt="Tony's Github stats"/>
+  </a>
+  
+</p>
