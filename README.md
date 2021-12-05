@@ -1,3 +1,5 @@
+<p><img src="https://img.shields.io/badge/Blog-Antonius.cc-blue?style=for-the-badge&labelColor=9fa9ff&color=ce95ff&logo=creativecommons&?cacheSeconds=3600&link=https://antonius.cc&link=https://antonius.cc" /></p>
+
 <h1 align="center">Tony's GitHub Profile Trophy</h1>
 
 <p align=center>
